@@ -111,8 +111,9 @@ const ProductDetail = () => {
             </Button>
           </div>
         </div>
-      </Layout>
-    );
+      </div>
+    </Layout>
+  );
 };
 
 export default ProductDetail;
